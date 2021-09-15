@@ -1,0 +1,47 @@
+.text-center {
+  text-align: center;
+}
+
+.cv-title {
+  font-size: 50px;
+}
+
+.about-me {
+  background-color: #E2CEB9;
+}
+
+.p-2 {
+  padding: 2rem;
+}
+
+.card {
+  width: 18rem;
+  border: 3px solid black;
+  font-size: 32px;
+}
+
+.img-style {
+  width: 100%;
+}
+
+.title {
+  font-size: 32px;
+}
+
+.sub-title {
+  font-size: 15px;
+}
+
+.check-button {
+  color: #1F0C03;
+  background-color: #F15A13;
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  margin: 10px;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+}
